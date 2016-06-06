@@ -1,4 +1,4 @@
-setwd("~/Desktop/Online Coursera/Coursera-R-Programming/week4/")
+setwd("~/Desktop/File_directory/")
 list.files()
 # helper function for getting the hospital name
 helper <- function(data, col_num, state) {
